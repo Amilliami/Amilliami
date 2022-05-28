@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Amilliami
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Amilliami 
+- 👀 I’m interested in baseball, oaching, and programming
+- 🌱 I’m currently learning coding and programming.
+- 💞️ I’m looking to collaborate on programming.
+- 📫 You contact me via email. (amillionamillion2020@gmail.com)
 
 <!---
 Amilliami/Amilliami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
