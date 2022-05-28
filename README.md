@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amilliami 
-- 👀 I’m interested in baseball, oaching, and programming
+- 👀 I’m interested in baseball, coaching, and programming
 - 🌱 I’m currently learning coding and programming.
 - 💞️ I’m looking to collaborate on programming.
 - 📫 You contact me via email. (amillionamillion2020@gmail.com)
